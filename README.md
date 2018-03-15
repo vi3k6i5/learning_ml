@@ -1,7 +1,7 @@
 # Learning_ML
 I am teaching a Learning ML workshop for some people @ Belong.co. Creating this repo to organise the course material.
 
-In this Repo I have created implementations of a few basic Models from scratch in python and compared it with sklearns implementation of the same models:
+I have implemented some basic machine learning and neural network Models from scratch in python and compared it with sklearn's implementation:
 
 Models
 ======
