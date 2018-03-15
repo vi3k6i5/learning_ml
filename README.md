@@ -28,7 +28,7 @@ Neural_Networks
 
 - Fizz Buzz in Tensorflow [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/neural_networks/tensorflow_fizz_buzz.ipynb)
 
-- Fizz Buzz in keras with LeakyReLU and Dropout [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/neural_networks/keras_text_classification.ipynb)
+- Text classficiation model in keras [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/neural_networks/keras_text_classification.ipynb)
 
 Working on more models to be put here, Reinforcement learning and Encoder decoder models.
 
