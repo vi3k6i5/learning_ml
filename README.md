@@ -18,6 +18,9 @@ Models
 
 - Logistic Regression with Stochastic Gradient Descent [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/models/6_logistic_regression_with_sgd.ipynb)
 
+- Naive Bayes Classifier Bernoulli [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/models/7_naive_bayes_classifier_bernoulli.ipynb)
+
+- Naive Bayes Classifier Multinomial [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/models/8_naive_bayes_classifier_multinomial.ipynb)
 
 Neural_Networks
 ===============
