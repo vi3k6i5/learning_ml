@@ -38,3 +38,5 @@ Metrics
 - AUC and AUC_ROC [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/metrics/compute_auc_metrics.ipynb)
 
 - Covariance and Correlation [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/metrics/covariance_and_correlation.ipynb)
+
+- Categorical Cross Entropy and LogLoss [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/metrics/categorical_cross_entropy_and_log_loss.ipynb)
