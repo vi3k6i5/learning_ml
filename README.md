@@ -22,6 +22,8 @@ Models
 
 - Naive Bayes Classifier Multinomial [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/models/8_naive_bayes_classifier_multinomial.ipynb)
 
+- Hidden Markov model [Notebook](https://github.com/vi3k6i5/learning_ml/blob/master/models/9_hidden_markov_model.ipynb)
+
 Neural_Networks
 ===============
 
